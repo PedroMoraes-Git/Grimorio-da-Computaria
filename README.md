@@ -2,7 +2,7 @@
 
 Minha documentação pessoal de programação. Código que funciona (talvez), alguns comentários sinceros e palavrões ocasionais.
 
-**Começado em 14/03/2026. Estudando C#, .NET e outras bruxarias.**
+**Começado em 15/03/2026. Estudando C#, .NET e outras bruxarias.**
 
 ### Aviso
 
