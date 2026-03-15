@@ -1,4 +1,4 @@
-Esse arquivo parece ser meio redundante por enquanto, mas daqui alguns meses quando eu esquecer (e eu **vou** esquecer), sei onde encontrar o que eu preciso.
+httpsarquivo parece ser meio redundante por enquanto, mas daqui alguns meses quando eu esquecer (e eu **vou** esquecer), sei onde encontrar o que eu preciso.
 
 ### Mexendo com repo que já existe
 
@@ -16,6 +16,6 @@ Esse arquivo parece ser meio redundante por enquanto, mas daqui alguns meses qua
 
 `git init` - Invoca o Git no projeto, importante não esquecer desse
 
-`git remote add https://github.com/nomedeusuario/algumrepositoriodoido.git` - É bom copiar o link certo pra não dar ruim, aqui simplesmente conecta o repositório remoto com o local
+`git remote add origin https://github.com/nomedeusuario/algumrepositoriodoido.git` - É bom copiar o link certo pra não dar ruim, aqui simplesmente conecta o repositório remoto com o local
 
 **Sessão de bom senso:** É a mesma coisa do primeiro depois da configuração inicial, não preciso ficar repetindo os comandos
