@@ -1,4 +1,4 @@
-Esse sarquivo parece ser meio redundante por enquanto, mas daqui alguns meses quando eu esquecer (e eu **vou** esquecer), sei onde encontrar o que eu preciso.
+Esse arquivo parece ser meio redundante por enquanto, mas daqui alguns meses quando eu esquecer (e eu **vou** esquecer), sei onde encontrar o que eu preciso.
 
 ### Mexendo com repo que já existe
 
