@@ -18,4 +18,4 @@ Esse arquivo parece ser meio redundante por enquanto, mas daqui alguns meses qua
 
 `git remote add origin https://github.com/nomedeusuario/algumrepositoriodoido.git` - É bom copiar o link certo pra não dar ruim, aqui simplesmente conecta o repositório remoto com o local
 
-**Sessão de bom senso:** É a mesma coisa do primeiro depois da configuração inicial, não preciso ficar repetindo os comandos
+**Seção de bom senso:** É a mesma coisa do primeiro depois da configuração inicial, não preciso ficar repetindo os comandos
