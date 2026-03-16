@@ -1,4 +1,5 @@
 ## Grimório da Computaria 🔮
+(esse nome maravilhoso vem de computação + putaria)
 
 Minha documentação pessoal de programação. Código que funciona (talvez), alguns comentários sinceros e palavrões ocasionais.
 
