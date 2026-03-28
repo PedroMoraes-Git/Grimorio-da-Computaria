@@ -134,3 +134,15 @@ Console.WriteLine(file); // /home/pedro/file.txt
 
 int num = int.Parse("10"); // 10
 string str = num.ToString(); // "10"
+
+/*
+
+notas:
+
+- provavelmente eu vou esquecer metade do que tá escrito aqui em uma semana
+
+- strings são mais complicadas do que parecem
+
+- pelo menos eu não tô estudando node
+
+*/
