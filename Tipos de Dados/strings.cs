@@ -9,11 +9,11 @@ using System.Text; // esse using é necessário para o StringBuilder explicado a
 // tipo de dado string
 
 
-string garbageText = "esse é um texto aleatório e inútil";
-
 char oneChar = 'M';
 
 char[] chars = ['o', 'l', 'á', oneChar];
+
+string garbageText = "esse é um texto aleatório e inútil";
 
 
 // Basicamente, essa maravilha de tipo de dado é um array de caracteres, então é imutável, uma string precisa ser reatribuída toda vez que for alterar o valor
@@ -24,9 +24,9 @@ char[] chars = ['o', 'l', 'á', oneChar];
 
 string otherGarbage = garbageText + ", socorro"; // concatenar | adicionar o texto no final
 
-string interpolation = $"o texto da variável otherGarbage é: {otherGarbage}"; // usa $ antes das aspas e chaves para a variável que quer formatar
+string trashInterpolation = $"o texto da variável otherGarbage é: {otherGarbage}"; // usa $ antes das aspas e chaves para a variável que quer formatar
 
-int size = interpolation.Length; // nome autodescritivo, não
+int uselessSize = trashInterpolation.Length; // nome autodescritivo, não
 
 
 // métodos úteis
@@ -134,6 +134,7 @@ Console.WriteLine(file); // /home/pedro/file.txt
 
 int num = int.Parse("10"); // 10
 string str = num.ToString(); // "10"
+
 
 /*
 
