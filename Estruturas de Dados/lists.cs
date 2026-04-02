@@ -62,7 +62,7 @@ int[] newArray = list.ToArray(); // agora é array
 
 List<int> anotherList = [2, 6, 2, 7, 9, 0];
 
-foreach (int item in list)
+foreach (int item in anotherList)
 {
     anotherList.Remove(item); // isso definitivamente faz kaboom. Você não pode percorrer uma lista (e nenhuma coleção) enquanto a modifica
 }
