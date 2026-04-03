@@ -10,3 +10,19 @@ bool boolean1 = true;
 /*
 é só isso
 */
+
+
+// mentira, não é só isso não
+
+
+// na verdade eu menti a mentira, era só aquilo mesmo... Mas tem if else:
+
+if (boolean0) // ou, internamente, if (boolean is true) ou também if (boolean == true)
+{
+    Console.WriteLine("nada");
+}
+
+else
+{
+    Console.WriteLine("nada ao quadrado");
+}

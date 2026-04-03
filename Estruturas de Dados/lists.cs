@@ -1,5 +1,5 @@
 /*
-listas, não arrays... Hoje em não tenho um bom comentário pra fazer sobre isso
+listas, não arrays... Hoje eu não tenho um bom comentário pra fazer sobre isso
 
 Na verdade agora eu tenho, não leia esse arquivo sem antes ler o de arrays
 */
