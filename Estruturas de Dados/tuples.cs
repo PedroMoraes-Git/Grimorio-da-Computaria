@@ -75,7 +75,7 @@ quem disser que é mais do que isso tá mentindo... Na verdade não, mas sendo s
 */
 
 /*
-nota 3, agora sobre stack: eu não sei explicar isso de forma tão boa, mas basicamente é um lugar pequeno da memória extremamente rápido e gerenciado automaticamente. O tamanho é menor (alguns MB) e funciona como uma pilha, o último dado inserido é o primeiro a ser removido (LIFO), aí é rápido pra caramba porque a CPU gerencia a memória sequencialmente. Stack é um negócio meio doido que tá mais presente em linguagens de baixo nível, eu só citei porque é legal saber que alguns ms de velocidade daí
+nota 3, agora sobre stack: eu não sei explicar isso de forma tão boa, mas basicamente é um lugar pequeno da memória extremamente rápido e gerenciado automaticamente. O tamanho é menor (alguns MB) e funciona como uma pilha, o último dado inserido é o primeiro a ser removido (LIFO), aí é rápido pra caramba porque a CPU gerencia a memória sequencialmente. Stack é um negócio meio doido que tá mais presente em linguagens de baixo nível, eu só citei porque é legal saber que alguns ms de velocidade vem daí
 */
 
 
