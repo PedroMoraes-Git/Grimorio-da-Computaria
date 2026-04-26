@@ -12,6 +12,7 @@ Pode conter frustração genuína de dev, se isso te incomoda, esse repo não é
 ### O que tem aqui
 
 - Processo de aprendizado de um dev;
+- Referências;
 - Vários exemplos de C#, .NET, Git e outros feitiços;
 - Talvez código útil e soluções alternativas;
 - Exemplos nem tão confiáveis se estiverem desatualizados.
