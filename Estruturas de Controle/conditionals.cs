@@ -7,7 +7,7 @@ Aliás, se você estiver lendo isso aqui sem antes ter lido o arquivo operators.
 */
 
 
-using static System.Console; // hackzinho legal: se fizer esse using pode usar WriteLine() direto
+using static System.Console; // dica legal: se fizer esse using pode usar WriteLine() direto
 
 
 // como usar condicionais
