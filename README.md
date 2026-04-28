@@ -21,6 +21,8 @@ Pode conter frustração genuína de dev, se isso te incomoda, esse repo não é
 
 Pra mim mesmo. Mas esse repositório é público por um motivo, então se quiser bisbilhotar ou ler o código, se sinta livre ^^
 
+Alías, se você é recrutador ou alguém querendo ver portfólio, não é aqui que você vai encontrar, esse repositório é totalmente informal e puramente caos organizado
+
 ### Como usar
 
 Sei lá. Entre nas pastas, copie o que quiser e talvez tente entender o código. Não quero créditos, simples assim.
