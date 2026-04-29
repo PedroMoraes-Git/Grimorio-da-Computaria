@@ -51,6 +51,7 @@ class ErrorMethods
         try
         {
             string text = await File.ReadAllTextAsync(file);
+            WriteLine(text);
         }
 
         catch (Exception)
