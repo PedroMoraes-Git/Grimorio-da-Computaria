@@ -1,7 +1,6 @@
 ## Grimório da Computaria 🔮
-(esse nome maravilhoso vem de computação + putaria)
 
-Minha documentação pessoal de programação. Código que funciona (talvez), alguns comentários sinceros e palavrões ocasionais.
+Esse repositório contém minha documentação pessoal de programação. Tem código que funciona (talvez), alguns comentários sinceros e palavrões ocasionais.
 
 **Começado em 15/03/2026. Estudando C#, .NET e outras bruxarias.**
 
@@ -11,11 +10,11 @@ Pode conter frustração genuína de dev, se isso te incomoda, esse repo não é
 
 ### O que tem aqui
 
-- Processo de aprendizado de um dev;
-- Referências;
+- Processo de aprendizado de um desenvolvedor;
+- Referências a outras coisas;
 - Vários exemplos de C#, .NET, Git e outros feitiços;
 - Talvez código útil e soluções alternativas;
-- Exemplos nem tão confiáveis se estiverem desatualizados.
+- Exemplos que podem estar desatualizados.
 
 ### Pra quem é isso
 
